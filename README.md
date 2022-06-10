@@ -18,7 +18,7 @@ For any query or want to know how it works join 👇
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/fridayuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bitchlah/fridayuserbot)
 
 ## GET STRING SESSION FROM REPL IT [TAP ON LOGO TO RUN ONLINE]
 
